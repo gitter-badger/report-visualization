@@ -1,0 +1,1 @@
+var colomatduration="fast",colomatslideEffect="slideFade",slider_settings={timeout:"6000"};
